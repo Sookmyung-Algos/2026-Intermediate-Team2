@@ -1,4 +1,4 @@
-// 문제1 음수 간선의 최단 거리 - 벨만 포드 알고리즘
+// 문제1 음수 간선의 최단 거리 - 벨만 포드 알고리즘 
 #include <iostream>
 #include <vector>
 #include <tuple>
